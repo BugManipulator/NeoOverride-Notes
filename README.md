@@ -1,2 +1,2 @@
 # 💾 NeoOverride-Notes
-⚡ These are my Programming notes, compiled with the help of my Cybernetic ally 🤖 ChatGPT! ⚙️🚀
+⚡ These are my computer notes, compiled with the help of my Cybernetic ally 🤖 ChatGPT! ⚙️🚀
