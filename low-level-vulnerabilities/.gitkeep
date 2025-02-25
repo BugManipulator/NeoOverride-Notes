@@ -1,0 +1,10 @@
+I will cover the following topics in this folder 'low-level-vulnerabilities':  
+
+Binary Exploitation Vulnerabilities (Low-Level):  
+➡ Buffer Overflow – Overwriting the return address using extra input.  
+➡ Format String Attack – Exploiting uncontrolled format specifiers to leak or overwrite memory.  
+➡ Use-After-Free (UAF) – Accessing memory after it has been freed.  
+➡ Integer Overflow/Underflow – Causing unexpected behavior by exceeding integer limits.  
+➡ Race Condition – Multiple processes competing for a shared resource.  
+➡ Return-Oriented Programming (ROP) – Reusing existing code through stack overflow.  
+➡ Heap Overflow – Corrupting heap memory by exceeding allocated space.  
